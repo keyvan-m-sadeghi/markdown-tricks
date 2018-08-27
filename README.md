@@ -1,6 +1,6 @@
 # markdown-tricks
 
-Here is a note [1].
+Here is a note[²].
 
 The
 
@@ -72,6 +72,5 @@ on
 
 0
 
-[Note One](google.com)
-
-[1]: #note-one
+#### ² Note Two
+[²]: #note-two
