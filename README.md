@@ -73,4 +73,4 @@ on
 0
 
 #### ² Note Two
-[²]:#note-two
+[²]:#-note-two
